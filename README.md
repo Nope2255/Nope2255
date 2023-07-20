@@ -1,6 +1,6 @@
 <div align="center" style="margin-bottom: 25px">
 <h5>Hey its me Nopes</h5>
-  
+<h5>You can write me on Discord: <em>Nopes<em>
 <h5>Languages i am Working with</h5>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
